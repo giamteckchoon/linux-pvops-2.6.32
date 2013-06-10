@@ -1,1 +1,2 @@
 [v2.6.32.59] 0012-blkfront-Fix-backtrace-in-del_gendisk.patch already applied
+[v2.6.32.60] 0006-fix-pgd_lock-deadlock.patch already applied
