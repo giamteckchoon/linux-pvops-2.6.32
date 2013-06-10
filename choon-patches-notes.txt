@@ -1,0 +1,1 @@
+[v2.6.32.59] 0012-blkfront-Fix-backtrace-in-del_gendisk.patch already applied
